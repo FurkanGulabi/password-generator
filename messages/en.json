@@ -1,0 +1,37 @@
+{
+  "title": "Smart Password Generator",
+  "input": {
+    "label": "Your Text (e.g., mycrazypassword)",
+    "placeholder": "Enter your text..."
+  },
+  "length": {
+    "label": "Password Length (for random generation): {length}"
+  },
+  "options": {
+    "lowercase": "Include Lowercase Letters (a-z)",
+    "uppercase": "Include Uppercase Letters (A-Z)",
+    "numbers": "Include Numbers (0-9)",
+    "symbols": "Include Symbols (!@#$%...)",
+    "spaces": "Include Spaces"
+  },
+  "buttons": {
+    "smart": "Generate Smart Password",
+    "random": "Generate Random Password"
+  },
+  "password": {
+    "label": "Generated Password:",
+    "empty": "Please enter your text first",
+    "noCharType": "Please select at least one character type",
+    "strength": {
+      "label": "Password Strength",
+      "weak": "Weak",
+      "medium": "Medium",
+      "strong": "Strong",
+      "veryStrong": "Very Strong"
+    }
+  },
+  "toast": {
+    "copied": "Password copied to clipboard",
+    "error": "Failed to copy password"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "title": "Akıllı Şifre Oluşturucu",
+  "input": {
+    "label": "Metniniz (örn: benimgizlisifrem)",
+    "placeholder": "Metninizi girin..."
+  },
+  "length": {
+    "label": "Şifre Uzunluğu (rastgele oluşturma için): {length}"
+  },
+  "options": {
+    "lowercase": "Küçük Harfleri Dahil Et (a-z)",
+    "uppercase": "Büyük Harfleri Dahil Et (A-Z)",
+    "numbers": "Sayıları Dahil Et (0-9)",
+    "symbols": "Sembolleri Dahil Et (!@#$%...)",
+    "spaces": "Boşluk İçersin"
+  },
+  "buttons": {
+    "smart": "Akıllı Şifre Oluştur",
+    "random": "Rastgele Şifre Oluştur"
+  },
+  "password": {
+    "label": "Oluşturulan Şifre:",
+    "empty": "Lütfen önce metin girin",
+    "noCharType": "Lütfen en az bir karakter türü seçin",
+    "strength": {
+      "label": "Şifre Gücü",
+      "weak": "Zayıf",
+      "medium": "Orta",
+      "strong": "Güçlü",
+      "veryStrong": "Çok Güçlü"
+    }
+  },
+  "toast": {
+    "copied": "Şifre panoya kopyalandı",
+    "error": "Şifre kopyalanamadı"
+  }
+}
